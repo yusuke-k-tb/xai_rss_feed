@@ -1,2 +1,87 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Grok AI RSS: LLM Releases</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description><lastBuildDate>Tue, 31 Mar 2026 11:48:23 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" /><item><title>Claude Codeプロンプトキュー方法</title><link>https://x.com/nicwhittle/status/2038945689686958453</link><guid isPermaLink="false">release-20260331-d5a3e707</guid><pubDate>Tue, 31 Mar 2026 11:48:23 +0000</pubDate><description>現在実行中プロンプトをバックグラウンド化し新プロンプト送信でキュー動作。Codex類似の未文書化動作発見。</description></item><item><title>Claude Codeデスクトップモード</title><link>https://x.com/0xmariussi/status/2038943078703071368</link><guid isPermaLink="false">release-20260331-0b0d2eb3</guid><pubDate>Tue, 31 Mar 2026 11:37:00 +0000</pubDate><description>AnthropicがClaude Codeの新デスクトップモードを構築中。エージェントコーディングがブラウザからOSネイティブへ移行し、ファイルアクセス向上。</description></item><item><title>Codexコマンドインジェクション修正</title><link>https://x.com/dispatchy_ai/status/2038930889787281855</link><guid isPermaLink="false">release-20260331-fb37be41</guid><pubDate>Tue, 31 Mar 2026 11:37:00 +0000</pubDate><description>Phantom LabsがCodexのコマンドインジェクション脆弱性を暴露、OpenAIがGitHub OAuthトークン盗用可能だった問題をパッチ適用。</description></item><item><title>Claude Code新Auto Mode</title><link>https://x.com/juliangoldieseo/status/2038929515817095676</link><guid isPermaLink="false">release-20260331-61f7d874</guid><pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate><description>リークで判明の新Auto Mode：安全確認付き自律タスク実行。許可スキップ不要で全作業自動化。</description></item><item><title>Claude Codeソースマップ漏洩</title><link>https://x.com/alvvst/status/2038928985007010262</link><guid isPermaLink="false">release-20260331-92f8f9d2</guid><pubDate>Tue, 31 Mar 2026 10:40:06 +0000</pubDate><description>Claude Codeのフルソースがnpmの.mapファイルで漏洩。アーキテクチャや内部モジュールが公開。セキュリティ警告。</description></item><item><title>Claude Code未文書機能発見</title><link>https://x.com/ibekidkirsch/status/2038919307971994037</link><guid isPermaLink="false">release-20260331-8957604e</guid><pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate><description>リークソースからcch検証、cc_workload、コーディネータモード、キャッシュ最適化など未公開動作を解析共有。</description></item><item><title>Claude Code隠し機能発覚</title><link>https://x.com/birdabo/status/2038914105436954980</link><guid isPermaLink="false">release-20260331-3dd0ffc2</guid><pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate><description>リークソースからkairos(自律デーモン)、buddy(タマゴッチペット)、undercover、coordinator、autoモードなど未発表機能詳細公開。</description></item><item><title>Claude Codeソース漏洩</title><link>https://x.com/fried_rice/status/2038894956459290963</link><guid isPermaLink="false">release-20260331-64ff1771</guid><pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate><description>npmレジストリの.mapファイル経由でClaude Codeのソースコードが漏洩。src.zipダウンロードリンク公開。未発表機能含む。6k超いいね。</description></item><item><title>Claude Code自動モードEnterprise</title><link>https://x.com/claudeai/status/2038693742094246032</link><guid isPermaLink="false">release-20260330-7d5ac4d2</guid><pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate><description>Claude Code自動モードがEnterpriseプラン・APIで利用可能。インストール更新後 claude --enable-auto-mode で有効。</description></item><item><title>Claude Code用Codexプラグイン</title><link>https://x.com/dkundel/status/2038670330257109461</link><guid isPermaLink="false">release-20260330-09f09e85</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>New open-source Codex plugin for Claude Code enables task delegation and code reviews using ChatGPT subscription. Install: github.com/openai/codex-plugin-cc. Supports parallel background tasks via Codex app server.</description></item><item><title>Claude Codeにコンピュータ使用追加</title><link>https://x.com/claudeai/status/2038663014098899416</link><guid isPermaLink="false">release-20260330-ce04c215</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>Computer use feature now in Claude Code: Claude can open apps, interact with UI, and test built code directly from CLI. Available in research preview on Pro and Max plans for macOS. Enable with /mcp. Docs: code.claude.com/docs/en/computer-use.</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Grok AI RSS: LLM Releases</title>
+    <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
+    <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
+    <lastBuildDate>Tue, 31 Mar 2026 11:48:23 +0000</lastBuildDate>
+    <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Codeプロンプトキュー方法</title>
+      <link>https://x.com/nicwhittle/status/2038945689686958453</link>
+      <guid isPermaLink="false">release-20260331-d5a3e707</guid>
+      <pubDate>Tue, 31 Mar 2026 11:48:23 +0000</pubDate>
+      <description>現在実行中プロンプトをバックグラウンド化し新プロンプト送信でキュー動作。Codex類似の未文書化動作発見。</description>
+    </item>
+    <item>
+      <title>Claude Codeデスクトップモード</title>
+      <link>https://x.com/0xmariussi/status/2038943078703071368</link>
+      <guid isPermaLink="false">release-20260331-0b0d2eb3</guid>
+      <pubDate>Tue, 31 Mar 2026 11:37:00 +0000</pubDate>
+      <description>AnthropicがClaude Codeの新デスクトップモードを構築中。エージェントコーディングがブラウザからOSネイティブへ移行し、ファイルアクセス向上。</description>
+    </item>
+    <item>
+      <title>Codexコマンドインジェクション修正</title>
+      <link>https://x.com/dispatchy_ai/status/2038930889787281855</link>
+      <guid isPermaLink="false">release-20260331-fb37be41</guid>
+      <pubDate>Tue, 31 Mar 2026 11:37:00 +0000</pubDate>
+      <description>Phantom LabsがCodexのコマンドインジェクション脆弱性を暴露、OpenAIがGitHub OAuthトークン盗用可能だった問題をパッチ適用。</description>
+    </item>
+    <item>
+      <title>Claude Code新Auto Mode</title>
+      <link>https://x.com/juliangoldieseo/status/2038929515817095676</link>
+      <guid isPermaLink="false">release-20260331-61f7d874</guid>
+      <pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate>
+      <description>リークで判明の新Auto Mode：安全確認付き自律タスク実行。許可スキップ不要で全作業自動化。</description>
+    </item>
+    <item>
+      <title>Claude Codeソースマップ漏洩</title>
+      <link>https://x.com/alvvst/status/2038928985007010262</link>
+      <guid isPermaLink="false">release-20260331-92f8f9d2</guid>
+      <pubDate>Tue, 31 Mar 2026 10:40:06 +0000</pubDate>
+      <description>Claude Codeのフルソースがnpmの.mapファイルで漏洩。アーキテクチャや内部モジュールが公開。セキュリティ警告。</description>
+    </item>
+    <item>
+      <title>Claude Code未文書機能発見</title>
+      <link>https://x.com/ibekidkirsch/status/2038919307971994037</link>
+      <guid isPermaLink="false">release-20260331-8957604e</guid>
+      <pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate>
+      <description>リークソースからcch検証、cc_workload、コーディネータモード、キャッシュ最適化など未公開動作を解析共有。</description>
+    </item>
+    <item>
+      <title>Claude Code隠し機能発覚</title>
+      <link>https://x.com/birdabo/status/2038914105436954980</link>
+      <guid isPermaLink="false">release-20260331-3dd0ffc2</guid>
+      <pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate>
+      <description>リークソースからkairos(自律デーモン)、buddy(タマゴッチペット)、undercover、coordinator、autoモードなど未発表機能詳細公開。</description>
+    </item>
+    <item>
+      <title>Claude Codeソース漏洩</title>
+      <link>https://x.com/fried_rice/status/2038894956459290963</link>
+      <guid isPermaLink="false">release-20260331-64ff1771</guid>
+      <pubDate>Tue, 31 Mar 2026 10:44:19 +0000</pubDate>
+      <description>npmレジストリの.mapファイル経由でClaude Codeのソースコードが漏洩。src.zipダウンロードリンク公開。未発表機能含む。6k超いいね。</description>
+    </item>
+    <item>
+      <title>Claude Code自動モードEnterprise</title>
+      <link>https://x.com/claudeai/status/2038693742094246032</link>
+      <guid isPermaLink="false">release-20260330-7d5ac4d2</guid>
+      <pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate>
+      <description>Claude Code自動モードがEnterpriseプラン・APIで利用可能。インストール更新後 claude --enable-auto-mode で有効。</description>
+    </item>
+    <item>
+      <title>Claude Code用Codexプラグイン</title>
+      <link>https://x.com/dkundel/status/2038670330257109461</link>
+      <guid isPermaLink="false">release-20260330-09f09e85</guid>
+      <pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate>
+      <description>New open-source Codex plugin for Claude Code enables task delegation and code reviews using ChatGPT subscription. Install: github.com/openai/codex-plugin-cc. Supports parallel background tasks via Codex app server.</description>
+    </item>
+    <item>
+      <title>Claude Codeにコンピュータ使用追加</title>
+      <link>https://x.com/claudeai/status/2038663014098899416</link>
+      <guid isPermaLink="false">release-20260330-ce04c215</guid>
+      <pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate>
+      <description>Computer use feature now in Claude Code: Claude can open apps, interact with UI, and test built code directly from CLI. Available in research preview on Pro and Max plans for macOS. Enable with /mcp. Docs: code.claude.com/docs/en/computer-use.</description>
+    </item>
+  </channel>
+</rss>
