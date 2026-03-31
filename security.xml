@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 08:42:58 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /><item><title>INCIBE Aviso: SQL Injection in Umami Software CVE-2026-4317</title><link>https://x.com/incibe_cert/status/2038896620662567224</link><guid isPermaLink="false">cve:CVE-2026-4317</guid><pubDate>Tue, 31 Mar 2026 08:30:09 +0000</pubDate><description>summary: Alert on SQL injection vulnerability in Umami Software, tagged as 0day with advisory link.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 08:54:36 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /><item><title>INCIBE Aviso: SQL Injection in Umami Software CVE-2026-4317</title><link>https://x.com/incibe_cert/status/2038896620662567224</link><guid isPermaLink="false">cve:CVE-2026-4317</guid><pubDate>Tue, 31 Mar 2026 08:30:09 +0000</pubDate><description>summary: Alert on SQL injection vulnerability in Umami Software, tagged as 0day with advisory link.
 canonical_author: @incibe_cert
 source_classification: official
 source_confidence: 95
@@ -75,7 +75,23 @@ urgency_reason: Newly disclosed breach of sensitive user data from authoritative
 vendors: Cuties AI
 products: Cuties AI
 related_sources:
-- https://x.com/haveibeenpwned/status/2038874122609115427</description></item><item><title>Axios NPM versions 1.14.1 and 0.30.4 malicious</title><link>https://x.com/ramimacisabird/status/2038803447068131456</link><guid isPermaLink="false">incident-20260331-ed08ca93</guid><pubDate>Tue, 31 Mar 2026 02:19:55 +0000</pubDate><description>summary: Compromised maintainer added &amp;#x27;plain-crypto-js&amp;#x27; dependency dropping platform-specific payloads via postinstall. C2 sfrclak.com:8000. Pin dependencies.
+- https://x.com/haveibeenpwned/status/2038874122609115427</description></item><item><title>Telnyx TeamPCP供給チェーン攻撃</title><link>https://x.com/securityweek/status/2038812274492629293</link><guid isPermaLink="false">incident-20260331-15783770</guid><pubDate>Tue, 31 Mar 2026 02:55:00 +0000</pubDate><description>summary: Telnyx targeted in expanding TeamPCP supply chain attack; part of growing campaign.
+canonical_author: @securityweek
+source_classification: trusted_expert
+source_confidence: 92
+source_reason: Established infosec media with focus on supply chain and breaches.
+urgency_reason: Ongoing supply chain attack affecting communications provider.
+vendors: Telnyx
+related_sources:
+- https://x.com/securityweek/status/2038812274492629293</description></item><item><title>Hallmark Cardsランサムウェア</title><link>https://x.com/vxunderground/status/2038806037197619526</link><guid isPermaLink="false">incident-20260331-2e1adc6c</guid><pubDate>Tue, 31 Mar 2026 02:30:13 +0000</pubDate><description>summary: ShinyHunters ransoming Hallmark Cards data, targeting even greeting card company.
+canonical_author: @vxunderground
+source_classification: trusted_expert
+source_confidence: 97
+source_reason: Highly credible malware intelligence curator trusted by security community.
+urgency_reason: Ransomware incident on consumer brand, data held for ransom.
+vendors: Hallmark Cards
+related_sources:
+- https://x.com/vxunderground/status/2038806037197619526</description></item><item><title>Axios NPM versions 1.14.1 and 0.30.4 malicious</title><link>https://x.com/ramimacisabird/status/2038803447068131456</link><guid isPermaLink="false">incident-20260331-ed08ca93</guid><pubDate>Tue, 31 Mar 2026 02:19:55 +0000</pubDate><description>summary: Compromised maintainer added &amp;#x27;plain-crypto-js&amp;#x27; dependency dropping platform-specific payloads via postinstall. C2 sfrclak.com:8000. Pin dependencies.
 canonical_author: @ramimacisabird
 source_classification: trusted_expert
 source_confidence: 98
