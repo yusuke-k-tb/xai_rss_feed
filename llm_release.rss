@@ -4,8 +4,15 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 11:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:44:10 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodexにGitHubプラグイン追加</title>
+      <link>https://x.com/openaidevs/status/2039118568252707144</link>
+      <guid isPermaLink="false">release-20260331-ae18fa07</guid>
+      <pubDate>Tue, 31 Mar 2026 23:44:10 +0000</pubDate>
+      <description>Codexアプリの新機能：GitHubプラグイン。イシューレビュー、フィードバック対応、変更コミット、PR作成が可能。動画デモ付きの公式発表。</description>
+    </item>
     <item>
       <title>Claude Codeプロンプトキュー方法</title>
       <link>https://x.com/nicwhittle/status/2038945689686958453</link>
