@@ -4,14 +4,28 @@
     <title>AI-Driven Dev Transformation</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Ground-level accounts of how development teams are changing their practices because of AI — ceremonies dropped, roles redefined, workflows rebuilt.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 13:43:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:50:25 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/dev_transformation.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIで工数50%削減事例</title>
+      <link>https://x.com/ragate5/status/2038869347377234030</link>
+      <guid isPermaLink="false">devtrans-20260331-fb1f899d</guid>
+      <pubDate>Tue, 31 Mar 2026 13:50:25 +0000</pubDate>
+      <description>自社でAI活用によりドキュメント・議事録自動化、調査レポート初稿、コードレビュー・テストケース作成を効率化。開発速度大幅アップ、工数50%減。フラット組織で試行錯誤サイクル高速化。</description>
+    </item>
     <item>
       <title>GoDaddyチームAIレビューシステム</title>
       <link>https://x.com/nitishagar/status/2038825417583526352</link>
       <guid isPermaLink="false">devtrans-20260331-292fdc27</guid>
       <pubDate>Tue, 31 Mar 2026 13:43:19 +0000</pubDate>
       <description>GoDaddyハッカソンでチームがMarkdownのみのマルチAIエージェントセキュリティレビューを構築。コミット前SAST・ロジックレビュー等を実行、偽陽性減・信頼向上。ノーコード実装でハッカソン優勝。</description>
+    </item>
+    <item>
+      <title>MSチームがマージ後レビュー</title>
+      <link>https://x.com/housecor/status/2038357516959019320</link>
+      <guid isPermaLink="false">devtrans-20260329-e3d59aa3</guid>
+      <pubDate>Tue, 31 Mar 2026 13:50:25 +0000</pubDate>
+      <description>Microsoftチームがコードレビューをマージ後に変更。待機・スタックPR・マージコンフリクト解消で高速化。成熟チーム・自動品質チェック前提、リスクあり。</description>
     </item>
   </channel>
 </rss>
