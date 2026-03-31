@@ -1,20 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss LLM release feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description><lastBuildDate>Tue, 31 Mar 2026 09:39:59 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" /><item><title>Claude Code用Codexプラグイン</title><link>https://x.com/dkundel/status/2038670330257109461</link><guid isPermaLink="false">release-20260330-09f09e85</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>summary: New open-source Codex plugin for Claude Code enables task delegation and code reviews using ChatGPT subscription. Install: github.com/openai/codex-plugin-cc. Supports parallel background tasks via Codex app server.
-tool: codex
-update_type: new_feature
-canonical_author: @dkundel
-source_classification: trusted_expert
-source_confidence: 98
-source_reason: @dkundel is OpenAI employee focused on DevX and Codex, consistent accurate announcements
-urgency_reason: OpenAI Codex team announcing new plugin release integrating with Claude Code, early insider info
-related_sources:
-- https://x.com/dkundel/status/2038670330257109461</description></item><item><title>Claude Codeにコンピュータ使用追加</title><link>https://x.com/claudeai/status/2038663014098899416</link><guid isPermaLink="false">release-20260330-ce04c215</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>summary: Computer use feature now in Claude Code: Claude can open apps, interact with UI, and test built code directly from CLI. Available in research preview on Pro and Max plans for macOS. Enable with /mcp. Docs: code.claude.com/docs/en/computer-use.
-tool: claude_code
-update_type: preview
-canonical_author: @claudeai
-source_classification: official
-source_confidence: 100
-source_reason: Posted directly by @ClaudeAI, core official account for Anthropic&amp;#x27;s Claude
-urgency_reason: Official announcement of major new capability in research preview, high impact for developers
-related_sources:
-- https://x.com/claudeai/status/2038663014098899416</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss LLM release feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description><lastBuildDate>Tue, 31 Mar 2026 10:08:06 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" /><item><title>Claude Code未文書機能発見</title><link>https://x.com/ibekidkirsch/status/2038919307971994037</link><guid isPermaLink="false">release-20260331-8957604e</guid><pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate><description>リークソースからcch検証、cc_workload、コーディネータモード、キャッシュ最適化など未公開動作を解析共有。</description></item><item><title>Claude Code自動モードEnterprise</title><link>https://x.com/claudeai/status/2038693742094246032</link><guid isPermaLink="false">release-20260330-7d5ac4d2</guid><pubDate>Tue, 31 Mar 2026 10:08:06 +0000</pubDate><description>Claude Code自動モードがEnterpriseプラン・APIで利用可能。インストール更新後 claude --enable-auto-mode で有効。</description></item><item><title>Claude Code用Codexプラグイン</title><link>https://x.com/dkundel/status/2038670330257109461</link><guid isPermaLink="false">release-20260330-09f09e85</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>New open-source Codex plugin for Claude Code enables task delegation and code reviews using ChatGPT subscription. Install: github.com/openai/codex-plugin-cc. Supports parallel background tasks via Codex app server.</description></item><item><title>Claude Codeにコンピュータ使用追加</title><link>https://x.com/claudeai/status/2038663014098899416</link><guid isPermaLink="false">release-20260330-ce04c215</guid><pubDate>Tue, 31 Mar 2026 09:39:59 +0000</pubDate><description>Computer use feature now in Claude Code: Claude can open apps, interact with UI, and test built code directly from CLI. Available in research preview on Pro and Max plans for macOS. Enable with /mcp. Docs: code.claude.com/docs/en/computer-use.</description></item></channel></rss>
