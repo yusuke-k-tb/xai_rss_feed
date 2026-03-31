@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 07:39:50 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /><item><title>Cuties AI platform suffers major data breach</title><link>https://x.com/haveibeenpwned/status/2038874122609115427</link><guid isPermaLink="false">incident-20260331-83671bab</guid><pubDate>Tue, 31 Mar 2026 07:00:45 +0000</pubDate><description>summary: NSFW AI companion Cuties AI breached; 144k email addresses, prompts for AI adult images, and content URLs exposed publicly last week. 26% emails previously pwned.
+canonical_author: @haveibeenpwned
+source_classification: trusted_expert
+source_confidence: 100
+source_reason: Have I Been Pwned run by Troy Hunt, globally trusted for accurate breach notifications and analysis.
+urgency_reason: Newly disclosed breach of sensitive user data from authoritative breach tracking service.
+vendors: Cuties AI
+products: Cuties AI
+related_sources:
+- https://x.com/haveibeenpwned/status/2038874122609115427</description></item></channel></rss>
