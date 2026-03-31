@@ -4,8 +4,29 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 14:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:58:28 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HSBCインド認証欠陥</title>
+      <link>https://x.com/vxunderground/status/2039048864217416035</link>
+      <guid isPermaLink="false">incident-20260331-8debcfd0</guid>
+      <pubDate>Tue, 31 Mar 2026 20:58:28 +0000</pubDate>
+      <description>HSBCインドがユーザー認証情報を大文字で表示。ハッシュ化せず平文保存の疑いあり、深刻なセキュリティ設計ミス。</description>
+    </item>
+    <item>
+      <title>悪意NPMパッケージ解析</title>
+      <link>https://x.com/vxunderground/status/2039039144970670227</link>
+      <guid isPermaLink="false">incident-20260331-0dad6c3f</guid>
+      <pubDate>Tue, 31 Mar 2026 20:58:28 +0000</pubDate>
+      <description>Clash of Clans無料ジェムを装ったNPMパッケージが極めて低品質のマルウェア。コード解析で開発者の失態暴露。</description>
+    </item>
+    <item>
+      <title>Ciscoソースコード盗難</title>
+      <link>https://x.com/bleepincomputer/status/2039038337571250344</link>
+      <guid isPermaLink="false">incident-20260331-669b7e8b</guid>
+      <pubDate>Tue, 31 Mar 2026 20:58:28 +0000</pubDate>
+      <description>Trivy関連開発環境が侵害され、Ciscoのソースコードが盗まれたとBleepingComputerが報じる。開発者環境のセキュリティ侵害事例。</description>
+    </item>
     <item>
       <title>AkiraランサムウェアがDean Supply攻撃</title>
       <link>https://x.com/eclipseintelco/status/2038980427885818081</link>
