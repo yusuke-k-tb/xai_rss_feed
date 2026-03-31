@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 07:39:50 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /><item><title>Cuties AI platform suffers major data breach</title><link>https://x.com/haveibeenpwned/status/2038874122609115427</link><guid isPermaLink="false">incident-20260331-83671bab</guid><pubDate>Tue, 31 Mar 2026 07:00:45 +0000</pubDate><description>summary: NSFW AI companion Cuties AI breached; 144k email addresses, prompts for AI adult images, and content URLs exposed publicly last week. 26% emails previously pwned.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 08:11:10 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.xml" rel="self" type="application/rss+xml" /><item><title>CareCloud EHR platform breach exposes patient data</title><link>https://x.com/adityambasymbi/status/2038889489410527615</link><guid isPermaLink="false">incident-20260331-fd3595d1</guid><pubDate>Tue, 31 Mar 2026 08:01:49 +0000</pubDate><description>summary: Healthcare SaaS CareCloud confirms 8-hour unauthorized access to one EHR environment on March 16; multi-tenant impact under investigation.
+canonical_author: @adityambasymbi
+source_classification: trusted_expert
+source_confidence: 85
+source_reason: Certified expert with domain experience providing substantive incident analysis beyond basic reporting.
+urgency_reason: Confirmed breach in healthcare data aggregator potentially affecting multiple practices&amp;#x27; patient records.
+vendors: CareCloud
+products: EHR, Electronic Health Records
+related_sources:
+- https://x.com/adityambasymbi/status/2038889489410527615</description></item><item><title>Cuties AI platform suffers major data breach</title><link>https://x.com/haveibeenpwned/status/2038874122609115427</link><guid isPermaLink="false">incident-20260331-83671bab</guid><pubDate>Tue, 31 Mar 2026 07:00:45 +0000</pubDate><description>summary: NSFW AI companion Cuties AI breached; 144k email addresses, prompts for AI adult images, and content URLs exposed publicly last week. 26% emails previously pwned.
 canonical_author: @haveibeenpwned
 source_classification: trusted_expert
 source_confidence: 100
@@ -8,4 +17,24 @@ urgency_reason: Newly disclosed breach of sensitive user data from authoritative
 vendors: Cuties AI
 products: Cuties AI
 related_sources:
-- https://x.com/haveibeenpwned/status/2038874122609115427</description></item></channel></rss>
+- https://x.com/haveibeenpwned/status/2038874122609115427</description></item><item><title>FortiClientEMS CVE-2026-21643 SQLi under active exploitation</title><link>https://x.com/rxerium/status/2038695719284936825</link><guid isPermaLink="false">cve:CVE-2026-21643</guid><pubDate>Mon, 30 Mar 2026 19:11:51 +0000</pubDate><description>summary: CVSS 9.8 SQL injection in FortiClient EMS 7.4.4 actively exploited; upgrade to 7.4.5 recommended; detection script shared.
+canonical_author: @rxerium
+source_classification: trusted_expert
+source_confidence: 90
+source_reason: Recognized researcher with relevant credentials and history of sharing actionable vuln intel including detection tools.
+urgency_reason: Active in-the-wild exploitation of critical SQLi with technical details and mitigation provided.
+cve_ids: CVE-2026-21643
+vendors: Fortinet
+products: FortiClient EMS
+related_sources:
+- https://x.com/rxerium/status/2038695719284936825</description></item><item><title>CISA adds Citrix NetScaler CVE-2026-3055 to KEV Catalog</title><link>https://x.com/cisacyber/status/2038695563709866279</link><guid isPermaLink="false">cve:CVE-2026-3055</guid><pubDate>Mon, 30 Mar 2026 19:11:14 +0000</pubDate><description>summary: Out-of-bounds read vulnerability in Citrix NetScaler added to Known Exploited Vulnerabilities; federal patch required.
+canonical_author: @cisacyber
+source_classification: official
+source_confidence: 100
+source_reason: Government agency directly responsible for tracking and mandating patches for exploited vulnerabilities.
+urgency_reason: KEV inclusion confirms active exploitation requiring immediate patching by U.S. federal agencies.
+cve_ids: CVE-2026-3055
+vendors: Citrix
+products: NetScaler
+related_sources:
+- https://x.com/cisacyber/status/2038695563709866279</description></item></channel></rss>
