@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 09:19:55 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" /><item><title>axios攻撃解説動画</title><link>https://x.com/_johnhammond/status/2038905797917196630</link><guid isPermaLink="false">incident-20260331-d626fb58</guid><pubDate>Tue, 31 Mar 2026 09:06:37 +0000</pubDate><description>summary: 15-minute video summary of NPM axios supply chain attack with resources, for those affected.
-canonical_author: @_johnhammond
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>xai_rss security feed</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Urgent security posts collected from trusted X accounts.</description><lastBuildDate>Tue, 31 Mar 2026 09:35:51 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" /><item><title>axios npm攻撃詳細解析</title><link>https://x.com/n3mes1s/status/2038912894113288275</link><guid isPermaLink="false">incident-20260331-d626fb58</guid><pubDate>Tue, 31 Mar 2026 09:35:51 +0000</pubDate><description>summary: In-depth reverse engineering of axios npm supply chain attack payloads: full source recovery, novel undocumented injector, cross-platform RATs (Win/Mac/Linux), C2 details, YARA/Sigma/Suricata rules, IOCs.
+canonical_author: @n3mes1s
 source_classification: trusted_expert
-source_confidence: 100
-source_reason: Priority account delivering substantive technical summary and resources.
-urgency_reason: Follow-up analysis from priority researcher providing actionable resources.
+source_confidence: 95
+source_reason: Prolific infosec researcher specializing in malware analysis and incident response tooling with public track record of high-quality technical posts.
+urgency_reason: Live supply chain compromise of top npm package (100M+ weekly downloads); researcher provides novel technical insights, detections for active malware dropper/RAT.
 vendors: npm, axios
-products: axios
+products: axios, plain-crypto-js
 related_sources:
-- https://x.com/_johnhammond/status/2038905797917196630</description></item><item><title>INCIBE Aviso: SQL Injection in Umami Software CVE-2026-4317</title><link>https://x.com/incibe_cert/status/2038896620662567224</link><guid isPermaLink="false">cve:CVE-2026-4317</guid><pubDate>Tue, 31 Mar 2026 08:30:09 +0000</pubDate><description>summary: Alert on SQL injection vulnerability in Umami Software, tagged as 0day with advisory link.
+- https://x.com/_johnhammond/status/2038905797917196630
+- https://x.com/n3mes1s/status/2038912894113288275</description></item><item><title>INCIBE Aviso: SQL Injection in Umami Software CVE-2026-4317</title><link>https://x.com/incibe_cert/status/2038896620662567224</link><guid isPermaLink="false">cve:CVE-2026-4317</guid><pubDate>Tue, 31 Mar 2026 08:30:09 +0000</pubDate><description>summary: Alert on SQL injection vulnerability in Umami Software, tagged as 0day with advisory link.
 canonical_author: @incibe_cert
 source_classification: official
 source_confidence: 95
