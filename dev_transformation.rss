@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>AI-Driven Dev Transformation</title><link>https://yusuke-k-tb.github.io/xai_rss_feed/</link><description>Ground-level accounts of how development teams are changing their practices because of AI — ceremonies dropped, roles redefined, workflows rebuilt.</description><lastBuildDate>Tue, 31 Mar 2026 13:43:19 +0000</lastBuildDate><atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/dev_transformation.rss" rel="self" type="application/rss+xml" /><item><title>GoDaddyチームAIレビューシステム</title><link>https://x.com/nitishagar/status/2038825417583526352</link><guid isPermaLink="false">devtrans-20260331-292fdc27</guid><pubDate>Tue, 31 Mar 2026 13:43:19 +0000</pubDate><description>GoDaddyハッカソンでチームがMarkdownのみのマルチAIエージェントセキュリティレビューを構築。コミット前SAST・ロジックレビュー等を実行、偽陽性減・信頼向上。ノーコード実装でハッカソン優勝。</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>AI-Driven Dev Transformation</title>
+    <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
+    <description>Ground-level accounts of how development teams are changing their practices because of AI — ceremonies dropped, roles redefined, workflows rebuilt.</description>
+    <lastBuildDate>Tue, 31 Mar 2026 13:43:19 +0000</lastBuildDate>
+    <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/dev_transformation.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoDaddyチームAIレビューシステム</title>
+      <link>https://x.com/nitishagar/status/2038825417583526352</link>
+      <guid isPermaLink="false">devtrans-20260331-292fdc27</guid>
+      <pubDate>Tue, 31 Mar 2026 13:43:19 +0000</pubDate>
+      <description>GoDaddyハッカソンでチームがMarkdownのみのマルチAIエージェントセキュリティレビューを構築。コミット前SAST・ロジックレビュー等を実行、偽陽性減・信頼向上。ノーコード実装でハッカソン優勝。</description>
+    </item>
+  </channel>
+</rss>
