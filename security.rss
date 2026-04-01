@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 12:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 14:06:44 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>n8nワークフローツールRCE</title>
+      <link>https://x.com/qualys/status/2039342262719582246</link>
+      <guid isPermaLink="false">cve:CVE-2026-33660</guid>
+      <pubDate>Wed, 01 Apr 2026 14:06:44 +0000</pubDate>
+      <description>n8nオープンソースワークフロー自動化ツールに認証攻撃者によるサンドボックスバイパスRCE（CVE-2026-33660、CVSS 9.4）。ホスト上で任意コマンド実行可能。Qualysブログに技術詳細と緩和策。</description>
+    </item>
+    <item>
+      <title>GNOME gdk-pixbuf JPEG脆弱性</title>
+      <link>https://x.com/kagancapar/status/2039342070012203318</link>
+      <guid isPermaLink="false">cve:CVE-2026-5201</guid>
+      <pubDate>Wed, 01 Apr 2026 14:06:44 +0000</pubDate>
+      <description>研究者がGNOME gdk-pixbuf JPEGローダーでヒープバッファオーバーフロー（CVE-2026-5201、CVSS 7.5）を発見。122バイトのJPEGでクラッシュを引き起こし、32ビット環境でvtable乗っ取りによるRCEを実証。詳細とPoCをGitHub公開。</description>
+    </item>
     <item>
       <title>Handala Hackインディアナ攻撃主張</title>
       <link>https://x.com/breachlookup/status/2039312243586678967</link>
