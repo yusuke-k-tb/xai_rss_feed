@@ -4,8 +4,15 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 09:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 21:27:07 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code Dispatch許可モード</title>
+      <link>https://x.com/noahzweben/status/2039407002913513477</link>
+      <guid isPermaLink="false">release-20260401-27601ab9</guid>
+      <pubDate>Wed, 01 Apr 2026 21:27:07 +0000</pubDate>
+      <description>Dispatchのコーディングタスクで許可モードを設定可能。Autoモードを推奨し、Bypass時はセッション承認必要。</description>
+    </item>
     <item>
       <title>Claude Code分析API公開</title>
       <link>https://x.com/aitoolsdailypod/status/2039255221231370466</link>
