@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 21:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 06:04:17 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIGABYTE CCC重要脆弱性</title>
+      <link>https://x.com/__kokumoto/status/2039186450567311714</link>
+      <guid isPermaLink="false">cve:CVE-2026-4415</guid>
+      <pubDate>Wed, 01 Apr 2026 06:04:17 +0000</pubDate>
+      <description>CVE-2026-4415 (CVSSv4 9.2): ペアリング有効時任意ファイル書き込みRCE。遠隔悪用可能、パッチ提供済み。</description>
+    </item>
+    <item>
+      <title>FreeBSD RCE PoC公開</title>
+      <link>https://x.com/dinosn/status/2039168606831882370</link>
+      <guid isPermaLink="false">cve:CVE-2026-4747</guid>
+      <pubDate>Wed, 01 Apr 2026 06:04:17 +0000</pubDate>
+      <description>Claude AI作成のCVE-2026-4747: FreeBSDリモートカーネルRCE rootシェル完全PoC。詳細write-up公開。</description>
+    </item>
     <item>
       <title>Claude AIがVim/Emacs RCE発見</title>
       <link>https://x.com/bleepincomputer/status/2039096762850259437</link>
