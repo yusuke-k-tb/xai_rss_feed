@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 14:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 17:13:09 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akira新被害者2社追加</title>
+      <link>https://x.com/falconfeedsio/status/2039390590585238017</link>
+      <guid isPermaLink="false">incident-20260401-edc7566f</guid>
+      <pubDate>Wed, 01 Apr 2026 17:13:09 +0000</pubDate>
+      <description>Akiraランサムウェアグループがダークウェブポータルに米国企業BuiltriteとStarr Insurance, Inc.の2社を新たに追加。</description>
+    </item>
+    <item>
+      <title>NGINX高深刻脆弱性公開</title>
+      <link>https://x.com/xint_official/status/2039380570866950561</link>
+      <guid isPermaLink="false">incident-20260401-ed544942</guid>
+      <pubDate>Wed, 01 Apr 2026 17:13:09 +0000</pubDate>
+      <description>XintがNGINXオープンソースおよびPlusで発見した高深刻度脆弱性を公開。ローカル認証攻撃によるDoSまたは任意コード実行が可能。F5が承認し最新版への更新を推奨。偶然0dayとして発見。</description>
+    </item>
     <item>
       <title>n8nワークフローツールRCE</title>
       <link>https://x.com/qualys/status/2039342262719582246</link>
