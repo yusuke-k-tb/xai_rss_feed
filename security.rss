@@ -4,14 +4,28 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 17:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 18:06:09 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brave Chromium脆弱性修正</title>
+      <link>https://x.com/brave/status/2039403850411688268</link>
+      <guid isPermaLink="false">incident-20260401-41765fcc</guid>
+      <pubDate>Wed, 01 Apr 2026 18:06:09 +0000</pubDate>
+      <description>Brave v1.88.138で野生悪用Chromium脆弱性を修正。自動更新または手動確認を推奨。Android版審査中。</description>
+    </item>
     <item>
       <title>Akira新被害者2社追加</title>
       <link>https://x.com/falconfeedsio/status/2039390590585238017</link>
       <guid isPermaLink="false">incident-20260401-edc7566f</guid>
       <pubDate>Wed, 01 Apr 2026 17:13:09 +0000</pubDate>
       <description>Akiraランサムウェアグループがダークウェブポータルに米国企業BuiltriteとStarr Insurance, Inc.の2社を新たに追加。</description>
+    </item>
+    <item>
+      <title>Anritsu RSM CVE悪用</title>
+      <link>https://x.com/aviatrixtrc/status/2039386334721200450</link>
+      <guid isPermaLink="false">cve:CVE-2026-3356</guid>
+      <pubDate>Wed, 01 Apr 2026 18:06:09 +0000</pubDate>
+      <description>攻撃者がAnritsu Remote Spectrum MonitorのCVE-2026-3356を悪用し認証バイパスと横移動。ランタイムセグメンテーションで封じ込め可能。詳細分析公開。</description>
     </item>
     <item>
       <title>NGINX高深刻脆弱性公開</title>
