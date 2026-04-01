@@ -4,8 +4,15 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 06:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 09:49:54 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code分析API公開</title>
+      <link>https://x.com/aitoolsdailypod/status/2039255221231370466</link>
+      <guid isPermaLink="false">release-20260401-1ad9d133</guid>
+      <pubDate>Wed, 01 Apr 2026 09:49:54 +0000</pubDate>
+      <description>Claude CodeアナリティクスAPI公開。ユーザー別日常メトリクス:セッション、変更行数、コミット、PR、ツール受諾率、トークン/コスト。企業ROIダッシュボード向け。https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api</description>
+    </item>
     <item>
       <title>Claude CodeでCodex呼び出し可</title>
       <link>https://x.com/kachilu_ceo/status/2039225274555105487</link>
