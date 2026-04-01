@@ -4,8 +4,15 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 18:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:33:07 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drift 220Mドル最大Solana攻撃</title>
+      <link>https://x.com/perry8888_/status/2039412940869132506</link>
+      <guid isPermaLink="false">incident-20260401-bd7bb29d</guid>
+      <pubDate>Wed, 01 Apr 2026 19:33:07 +0000</pubDate>
+      <description>Drift Protocolエクスプロイトが220Mドル、Solana最大かつ史上10位の規模。</description>
+    </item>
     <item>
       <title>Brave Chromium脆弱性修正</title>
       <link>https://x.com/brave/status/2039403850411688268</link>
