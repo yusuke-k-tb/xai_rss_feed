@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 11:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 12:04:27 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Handala Hackインディアナ攻撃主張</title>
+      <link>https://x.com/breachlookup/status/2039312243586678967</link>
+      <guid isPermaLink="false">incident-20260401-dc6b3980</guid>
+      <pubDate>Wed, 01 Apr 2026 12:04:27 +0000</pubDate>
+      <description>Handala HackがSt. Joseph County（インディアナ州政府）に破壊攻撃を主張。2TB盗難、12TB消去。死亡証明書・警察報告書・医療記録をブランド付きで公開。詳細: breachnews.com</description>
+    </item>
+    <item>
+      <title>Chrome 0day CVE-2026-5281</title>
+      <link>https://x.com/thehackersnews/status/2039310235840712807</link>
+      <guid isPermaLink="false">cve:CVE-2026-5281</guid>
+      <pubDate>Wed, 01 Apr 2026 12:04:27 +0000</pubDate>
+      <description>Chrome WebGPU(Dawn)のuse-after-freeゼロデイ（CVE-2026-5281）。悪用ページでコード実行。2026年4番目のexploited 0day。Google修正。</description>
+    </item>
     <item>
       <title>OpenWebUI CVE-2026-34222</title>
       <link>https://x.com/sec_consult/status/2039299088768782603</link>
