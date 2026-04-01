@@ -4,8 +4,29 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 23:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:18:50 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code v2.1.89リリース</title>
+      <link>https://x.com/ina_amagami/status/2039176541087879667</link>
+      <guid isPermaLink="false">release-20260401-2f2e8e83</guid>
+      <pubDate>Wed, 01 Apr 2026 03:18:50 +0000</pubDate>
+      <description>Claude Code v2.1.89アップデート配信中。変更ログ確認を推奨。</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.89更新</title>
+      <link>https://x.com/d_ehara/status/2039176398238335352</link>
+      <guid isPermaLink="false">release-20260401-adb16089</guid>
+      <pubDate>Wed, 01 Apr 2026 03:18:50 +0000</pubDate>
+      <description>v2.1.89でヘッドレス自動化改善：defer/ resume対応、無限ループ修正。API安定性向上。</description>
+    </item>
+    <item>
+      <title>Claude Code Bashツール修正</title>
+      <link>https://x.com/devstackwatchjp/status/2039176038488662391</link>
+      <guid isPermaLink="false">release-20260401-8024be35</guid>
+      <pubDate>Wed, 01 Apr 2026 03:18:50 +0000</pubDate>
+      <description>変更ログ：Bashツール権限チェック脆弱性修正。環境変数追加、拒否通知変更。要対応。</description>
+    </item>
     <item>
       <title>CodexにGitHubプラグイン追加</title>
       <link>https://x.com/openaidevs/status/2039118568252707144</link>
