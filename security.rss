@@ -4,8 +4,29 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 06:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 11:15:12 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWebUI CVE-2026-34222</title>
+      <link>https://x.com/sec_consult/status/2039299088768782603</link>
+      <guid isPermaLink="false">cve:CVE-2026-34222</guid>
+      <pubDate>Wed, 01 Apr 2026 11:15:12 +0000</pubDate>
+      <description>OpenWebUIのauth欠陥（CVE-2026-34222）で低権限ユーザがAPIキー含む機密ツールデータアクセス可能。即時パッチとセキュリティレビュー推奨。advisory公開。</description>
+    </item>
+    <item>
+      <title>Nginx UI/snapd CVE writeup</title>
+      <link>https://x.com/0xdf_/status/2039296992115896738</link>
+      <guid isPermaLink="false">cve:CVE-2026-27944|CVE-2026-3888</guid>
+      <pubDate>Wed, 01 Apr 2026 11:15:12 +0000</pubDate>
+      <description>HackTheBox &amp;#x27;Snapped&amp;#x27;のwriteup公開。Nginx UIの無認証バックアップダウンロード・復号（CVE-2026-27944）、bcryptクラッキングでシェル獲得、snapdレースコンディションRCE（CVE-2026-3888）でroot化。</description>
+    </item>
+    <item>
+      <title>Chrome CVE-2025-2783 PoC</title>
+      <link>https://x.com/aron_four/status/2039295725767700661</link>
+      <guid isPermaLink="false">cve:CVE-2025-2783</guid>
+      <pubDate>Wed, 01 Apr 2026 11:15:12 +0000</pubDate>
+      <description>Chromeサンドボックス脱出バグ（CVE-2025-2783、ipcz）のexploit公開。技術writeup近日公開予定。GitHub: https://github.com/aronfour/CVE-2025-2783</description>
+    </item>
     <item>
       <title>GIGABYTE CCC重要脆弱性</title>
       <link>https://x.com/__kokumoto/status/2039186450567311714</link>
