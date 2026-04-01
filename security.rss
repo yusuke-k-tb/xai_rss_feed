@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 19:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 21:59:12 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS18 DarkSwordエクスプロイト漏洩</title>
+      <link>https://x.com/syedaquib77/status/2039457358384939038</link>
+      <guid isPermaLink="false">incident-20260401-589d9c03</guid>
+      <pubDate>Wed, 01 Apr 2026 21:59:12 +0000</pubDate>
+      <description>iOS 18 DarkSwordエクスプロイトチェーン公開（CVEなし）。ゼロデイ連鎖でRCE・データ抽出。AppleがiOS18パッチ配信、更新急務。</description>
+    </item>
+    <item>
+      <title>Nissanベンダー侵害、910GB流出主張</title>
+      <link>https://x.com/syedaquib77/status/2039454651238474159</link>
+      <guid isPermaLink="false">incident-20260401-999b8c23</guid>
+      <pubDate>Wed, 01 Apr 2026 21:59:12 +0000</pubDate>
+      <description>EverestがNissan第三者ベンダー侵害主張、910GB顧客・融資データ盗難。Nissanは自社影響なしと反論、調査中。サプライチェーンリスク。</description>
+    </item>
     <item>
       <title>Drift 220Mドル最大Solana攻撃</title>
       <link>https://x.com/perry8888_/status/2039412940869132506</link>
