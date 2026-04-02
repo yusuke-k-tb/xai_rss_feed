@@ -4,7 +4,7 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Thu, 02 Apr 2026 03:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:01:51 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
     <item>
       <title>Claude Code v2.1.90リリース</title>
@@ -12,6 +12,13 @@
       <guid isPermaLink="false">release-20260402-f19c573c</guid>
       <pubDate>Thu, 02 Apr 2026 03:35:37 +0000</pubDate>
       <description>v2.1.90リリース。/powerupコマンド追加でインタラクティブレッスン。ターミナル内で学習可能。デモ動画あり。</description>
+    </item>
+    <item>
+      <title>CodexにLinearプラグイン</title>
+      <link>https://x.com/openaidevs/status/2039482146369458526</link>
+      <guid isPermaLink="false">release-20260401-125606a7</guid>
+      <pubDate>Thu, 02 Apr 2026 06:01:51 +0000</pubDate>
+      <description>CodexアプリにLinearプラグインが追加され、作業とチケットを同期。開発ワークフローの効率化を図る新機能の公式発表。動画デモ付き。</description>
     </item>
     <item>
       <title>Claude Code NO_FLICKERモード</title>
