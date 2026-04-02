@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Dev Transformation</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Ground-level accounts of how development teams are changing their practices because of AI — ceremonies dropped, roles redefined, workflows rebuilt.</description>
-    <lastBuildDate>Tue, 31 Mar 2026 16:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:14:17 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/dev_transformation.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Block:1-2人で10-100倍生産性</title>
+      <link>https://x.com/a16z/status/2039408356914532426</link>
+      <guid isPermaLink="false">devtrans-20260401-03f422b2</guid>
+      <pubDate>Thu, 02 Apr 2026 07:14:17 +0000</pubDate>
+      <description>BlockのOwen Jennings氏談:ヘッドカウントと出力相関崩壊。1-2エンジニア+デザイナーがAIツールで10-100倍生産性向上。複雑コードベース対応可能に。</description>
+    </item>
+    <item>
+      <title>AI活用でチーム6人減、生産性維持</title>
+      <link>https://x.com/diegomyellow/status/2039254788500832260</link>
+      <guid isPermaLink="false">devtrans-20260401-f8b38909</guid>
+      <pubDate>Thu, 02 Apr 2026 07:14:17 +0000</pubDate>
+      <description>Yellow Capitalのコアチームを6人減らしたが、出力は低下せず。AIエージェントに重い作業を委任し、リード開発者がコードレビューとAI指導に注力。適応しない開発者にAI学習のための2ヶ月ランウェイを提供し、アップスキルを選択。</description>
+    </item>
     <item>
       <title>AIでPRコードが均一化</title>
       <link>https://x.com/housecor/status/2039004231240192374</link>
