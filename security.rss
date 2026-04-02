@@ -4,8 +4,15 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 21:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 09:17:00 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juju Dqlite TLS認証バイパス</title>
+      <link>https://x.com/cosmicbytez/status/2039632643005075779</link>
+      <guid isPermaLink="false">cve:CVE-2026-4370</guid>
+      <pubDate>Thu, 02 Apr 2026 09:17:00 +0000</pubDate>
+      <description>CVE-2026-4370: DqliteクラスタのTLS認証をバイパスし、認証不要でデータベースアクセス可能。自社アドバイザリ公開。</description>
+    </item>
     <item>
       <title>iOS18 DarkSwordエクスプロイト漏洩</title>
       <link>https://x.com/syedaquib77/status/2039457358384939038</link>
@@ -269,7 +276,7 @@
       <title>CISA adds Citrix NetScaler CVE-2026-3055 to KEV Catalog</title>
       <link>https://x.com/cisacyber/status/2038695563709866279</link>
       <guid isPermaLink="false">cve:CVE-2026-3055</guid>
-      <pubDate>Tue, 31 Mar 2026 08:22:43 +0000</pubDate>
+      <pubDate>Thu, 02 Apr 2026 09:17:00 +0000</pubDate>
       <description>Out-of-bounds read vulnerability in Citrix NetScaler added to Known Exploited Vulnerabilities; federal patch required.</description>
     </item>
   </channel>
