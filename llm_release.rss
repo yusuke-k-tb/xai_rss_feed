@@ -4,8 +4,22 @@
     <title>Grok AI RSS: LLM Releases</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Functional releases and updates for Claude Code, Codex, and Cursor collected from X.</description>
-    <lastBuildDate>Wed, 01 Apr 2026 21:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:35:37 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/llm_release.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code v2.1.90リリース</title>
+      <link>https://x.com/dani_avila7/status/2039495239019204840</link>
+      <guid isPermaLink="false">release-20260402-f19c573c</guid>
+      <pubDate>Thu, 02 Apr 2026 03:35:37 +0000</pubDate>
+      <description>v2.1.90リリース。/powerupコマンド追加でインタラクティブレッスン。ターミナル内で学習可能。デモ動画あり。</description>
+    </item>
+    <item>
+      <title>Claude Code NO_FLICKERモード</title>
+      <link>https://x.com/bcherny/status/2039421575422980329</link>
+      <guid isPermaLink="false">release-20260401-f97edf71</guid>
+      <pubDate>Thu, 02 Apr 2026 03:35:37 +0000</pubDate>
+      <description>ターミナル向け実験的新レンダラー発表。フリッカーなしでプロンプト固定、マウスイベント対応。CLAUDE_CODE_NO_FLICKER=1で試用可。内部好評。</description>
+    </item>
     <item>
       <title>Claude Code Dispatch許可モード</title>
       <link>https://x.com/noahzweben/status/2039407002913513477</link>
