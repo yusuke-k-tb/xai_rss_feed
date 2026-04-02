@@ -4,8 +4,22 @@
     <title>Grok AI RSS: Security</title>
     <link>https://yusuke-k-tb.github.io/xai_rss_feed/</link>
     <description>Urgent security posts collected from trusted X accounts.</description>
-    <lastBuildDate>Thu, 02 Apr 2026 09:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 11:12:36 +0000</lastBuildDate>
     <atom:link href="https://yusuke-k-tb.github.io/xai_rss_feed/security.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pawn Storm Windows 0day悪用</title>
+      <link>https://x.com/trendai_rsrch/status/2039661622961062390</link>
+      <guid isPermaLink="false">cve:CVE-2026-21509|CVE-2026-21513</guid>
+      <pubDate>Thu, 02 Apr 2026 11:12:36 +0000</pubDate>
+      <description>Pawn StormがWindowsゼロデイ（CVE-2026-21513）を積極的に悪用し、CVE-2026-21509と組み合わせ重要インフラを攻撃。TrendAIの追跡分析公開。</description>
+    </item>
+    <item>
+      <title>Vim複数ヒープオーバーフロー</title>
+      <link>https://x.com/innora_sg/status/2039657436119003318</link>
+      <guid isPermaLink="false">cve:CVE-2026-28421</guid>
+      <pubDate>Thu, 02 Apr 2026 11:12:36 +0000</pubDate>
+      <description>研究者がVimにCVE-2026-28421同種の14超整数truncationヒープオーバーフローを報告も、メンテナが無視しGitHubセキュリティアドバイザリ閉鎖・ブロック警告。詳細writeupあり。</description>
+    </item>
     <item>
       <title>Juju Dqlite TLS認証バイパス</title>
       <link>https://x.com/cosmicbytez/status/2039632643005075779</link>
